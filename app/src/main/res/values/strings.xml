@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ExpendableListViewProject</string>
+
+    <string-array name="parent">
+
+        <item>Rafia</item>
+        <item>Era</item>
+        <item>Tania</item>
+        <item>Prema</item>
+        <item>Jamil</item>
+        <item>Taki</item>
+        <item>Ishtiaq</item>
+        <item>Khadija</item>
+        <item>Pinky</item>
+        <item>Rubel</item>
+
+    </string-array>
+
+
+
+    <string-array name="child" >
+
+        <item>Name:Rafia Zahan Tamanna</item>
+        <item>Batch:39th</item>
+        <item>Name:Subrin Samira Era</item>
+        <item>Batch:39th</item>
+        <item>Name:FatemaTuj Juhura Tania</item>
+        <item>Batch:39th</item>
+        <item>Oppo</item>
+        <item>Selfi Expert</item>
+        <item>Xiomi</item>
+        <item>Strong Battery</item>
+        <item>Nokia</item>
+        <item>Nokia 1230</item>
+        <item>Symphony</item>
+        <item>less Cost</item>
+        <item>Walton</item>
+        <item>Bangladeshi</item>
+        <item>Vivo</item>
+        <item>New Phone</item>
+        <item>Sony</item>
+        <item>Lovely Phone</item>
+
+
+    </string-array>
+
+</resources>
